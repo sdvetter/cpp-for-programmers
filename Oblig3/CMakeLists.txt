@@ -1,0 +1,1 @@
+add_executable(Oblig3 main.cpp)
